@@ -8,7 +8,6 @@ namespace Varych.TaskPlanner
     {
         public static void Main(string[] args)
         {
-            //supp
             List<WorkItem> items = new List<WorkItem>();
 
             Console.WriteLine("Enter WorkItems(leave empty to finish):");
