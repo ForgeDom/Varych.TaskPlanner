@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Varych.TaskPlanner.DataAccess.Abstractions\Varych.TaskPlanner.DataAccess.Abstractions.csproj" />
     <ProjectReference Include="..\Varych.TaskPlanner.Domain.Models1\Varych.TaskPlanner.Domain.Models1.csproj" />
   </ItemGroup>
