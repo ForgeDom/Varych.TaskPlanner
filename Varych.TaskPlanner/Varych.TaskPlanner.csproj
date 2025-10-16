@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Varych.TaskPlanner.DataAccess\Varych.TaskPlanner.DataAccess.csproj" />
     <ProjectReference Include="..\Varych.TaskPlanner.Domain.Logic1\Varych.TaskPlanner.Domain.Logic1.csproj" />
     <ProjectReference Include="..\Varych.TaskPlanner.Domain.Models1\Varych.TaskPlanner.Domain.Models1.csproj" />
   </ItemGroup>
